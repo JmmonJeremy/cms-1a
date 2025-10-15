@@ -1,4 +1,4 @@
-# Angular Contacts App: <a href="https://jmmonjeremy.github.io/cms-1a/" target="_blank">Wk2 1st Assignment Phase1</a>
+# Angular Contacts App: <a href="https://jmmonjeremy.github.io/cms-1a-phase1/" target="_blank">Wk2 1st Assignment Phase1</a>
 Repository for my BYUI WDD 430 Web Full-Stack Development class
 # ProjectTemplate
 
